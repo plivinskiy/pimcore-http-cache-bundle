@@ -1,5 +1,5 @@
 {
-  "name": "teamneusta/pimcore-http-cache-bundle",
+  "name": "plivinskiy/pimcore-http-cache-bundle",
   "description": "Adds active cache invalidation to pimcore via cache tags.",
   "license": "GPL-3.0-or-later",
   "type": "pimcore-bundle",
